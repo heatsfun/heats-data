@@ -1,6 +1,8 @@
 [
-  {"ticker": "$NO", "ca": "6PuC6gyVfZAATJwoArT49ajY9dibXc3YX9WyfXZbpmrQ", "score": 30},
+  {"ticker": "$NO", "ca": "6PuC6gyVfZAATJwoArT49ajY9dibXc3YX9WyfXZbpmrQ", "score": 34},
   {"ticker": "$BP", "ca": "3B1ijcocM5EDga6XxQ7JLW7weocQPWWjuhBYG8Vepump", "score": 15},
+  {"ticker": "$TENDIES", "ca": "2M84VE4DWD4GkrURatcWJXy4r1pZDLJS7EDto2q8vW3B", "score": 15},
+  {"ticker": "$DFV", "ca": "Ct5Truec2Bz49zPDh3uK4KsDuH6hY1DTYzMZamti7YEy", "score": 15},
   {"ticker": "$ISG", "ca": "3uEVodfTeqLsBssjQ5VPEwwdsTwWCJGCd3FVyx7RUNVB", "score": 6},
   {"ticker": "$INTERN", "ca": "STNKxjt18MTLYf66eNpcvLfjgm7VUchouXe8Do3WkZZ", "score": 5}
 ]
