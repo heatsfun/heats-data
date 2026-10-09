@@ -1,0 +1,60 @@
+{
+  "heat": 0,
+  "name": "HEAT 0 WARMUP",
+  "post": "https://x.com/heats_fun/status/2105932715862438179",
+  "winner": "$NO",
+  "winnerCa": "6PuC6gyVfZAATJwoArT49ajY9dibXc3YX9WyfXZbpmrQ",
+  "burnTx": "https://solscan.io/tx/4hYsBrwfPyTmG5u383gKb91LWdpGwzT2GHLokCE3iMKkHVpeSsBtdBJqzLTRc4BJjvvqMzG9oqmX4SZMK78cihz6",
+  "archivedAt": "2026-10-09T09:26:42.539Z",
+  "updatedAt": "2026-10-07T11:39:06.957Z",
+  "coins": [
+    {
+      "ticker": "$NO",
+      "ca": "6PuC6gyVfZAATJwoArT49ajY9dibXc3YX9WyfXZbpmrQ",
+      "score": 35,
+      "pfp": "https://i.kym-cdn.com/photos/images/newsfeed/000/232/114/e39.png"
+    },
+    {
+      "ticker": "$STWC",
+      "ca": "AoHVuFNKTAEUc5aiC8HLWUWytNC3nkJ4jcnjyFQaiCJg",
+      "score": 26,
+      "pfp": "https://gateway.irys.xyz/7kuMKwo8MxRS38Np6tQhykdYnTHTrAgFjR5f8zMZw29L"
+    },
+    {
+      "ticker": "$BP",
+      "ca": "3B1ijcocM5EDga6XxQ7JLW7weocQPWWjuhBYG8Vepump",
+      "score": 15,
+      "pfp": "https://pbs.twimg.com/profile_images/2019138810949308416/bYxhoi8p_400x400.jpg"
+    },
+    {
+      "ticker": "$DFV",
+      "ca": "Ct5Truec2Bz49zPDh3uK4KsDuH6hY1DTYzMZamti7YEy",
+      "score": 15,
+      "pfp": "https://gateway.irys.xyz/64ZzZNiQxhy4QqHnUo7ZLCH8vWtt4tJMzaxS1U93U1yt"
+    },
+    {
+      "ticker": "$TENDIES",
+      "ca": "2M84VE4DWD4GkrURatcWJXy4r1pZDLJS7EDto2q8vW3B",
+      "score": 15,
+      "pfp": "https://gateway.irys.xyz/3yods81n5ZxfDMe37k7ruZqs5TanVbLwNZtfQVMY6zoe"
+    },
+    {
+      "ticker": "$TWERK",
+      "ca": "FuZv5DYyGTYJN4SacXsRdjPJsDWA48nuhMH6udwd4pin",
+      "score": 15,
+      "pfp": "https://cdn.dexscreener.com/cms/images/YyCnWKLzwAseE7WR?width=800&height=800&quality=95&format=auto"
+    },
+    {
+      "ticker": "$ISG",
+      "ca": "3uEVodfTeqLsBssjQ5VPEwwdsTwWCJGCd3FVyx7RUNVB",
+      "score": 6,
+      "pfp": "https://m.rapidlaunch.io/images/AGlB3qMNP.jpg"
+    },
+    {
+      "ticker": "$INTERN",
+      "ca": "STNKxjt18MTLYf66eNpcvLfjgm7VUchouXe8Do3WkZZ",
+      "score": 5,
+      "pfp": "https://gateway.irys.xyz/2jF98vRqYvccgPhFz8g4YwZzvoruajpiMPYNe3g3nNVW"
+    }
+  ]
+}
