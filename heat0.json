@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-09T18:18:16.378Z",
+  "updatedAt": "2026-10-09T18:52:55.175Z",
   "coins": [
+    {
+      "ticker": "$HEAT",
+      "ca": "D9Tp9J3rVEzHPKAKLCE85ZAoWru1FPRhp1HfpnextvJL",
+      "score": 22,
+      "pfp": null
+    },
     {
       "ticker": "$AxeCat",
       "ca": "HzReQA8ee2VjfkLGBvBV7EXYFJVUmAaWCFZFRcCUpump",
