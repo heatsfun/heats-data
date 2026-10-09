@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-10-09T12:14:27.032Z",
+  "updatedAt": "2026-10-09T13:13:16.000Z",
   "coins": [
     {
       "ticker": "$AxeCat",
       "ca": "HzReQA8ee2VjfkLGBvBV7EXYFJVUmAaWCFZFRcCUpump",
-      "score": 15,
+      "score": 19,
       "pfp": "https://cdn.dexscreener.com/cms/images/O6k_vRoUOPJt7FYg?width=800&height=800&quality=95&format=auto"
+    },
+    {
+      "ticker": "$CONDO",
+      "ca": "6c1yyJi2uy5kQ1CWcECMFPHp2SspfH1rxDr1Ecnjy9G",
+      "score": 12,
+      "pfp": "https://cdn.dexscreener.com/cms/images/XK-Dp7aFsI1tqho8?width=800&height=800&quality=95&format=auto"
     }
   ]
 }
