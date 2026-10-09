@@ -1,4 +1,11 @@
 {
-  "updatedAt": "2026-10-09T09:26:42.539Z",
-  "coins": []
+  "updatedAt": "2026-10-09T12:14:27.032Z",
+  "coins": [
+    {
+      "ticker": "$AxeCat",
+      "ca": "HzReQA8ee2VjfkLGBvBV7EXYFJVUmAaWCFZFRcCUpump",
+      "score": 15,
+      "pfp": "https://cdn.dexscreener.com/cms/images/O6k_vRoUOPJt7FYg?width=800&height=800&quality=95&format=auto"
+    }
+  ]
 }
