@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-09T19:17:48.616Z",
+  "updatedAt": "2026-10-09T20:21:32.819Z",
   "coins": [
+    {
+      "ticker": "$ISG",
+      "ca": "3uEVodfTeqLsBssjQ5VPEwwdsTwWCJGCd3FVyx7RUNVB",
+      "score": 33,
+      "pfp": "https://cdn.dexscreener.com/cms/images/1SLmF3-HDQoKXSz8?width=800&height=800&quality=95&format=auto"
+    },
     {
       "ticker": "$HEAT",
       "ca": "D9Tp9J3rVEzHPKAKLCE85ZAoWru1FPRhp1HfpnextvJL",
@@ -12,6 +18,12 @@
       "ca": "HzReQA8ee2VjfkLGBvBV7EXYFJVUmAaWCFZFRcCUpump",
       "score": 19,
       "pfp": "https://cdn.dexscreener.com/cms/images/O6k_vRoUOPJt7FYg?width=800&height=800&quality=95&format=auto"
+    },
+    {
+      "ticker": "$KNOTS",
+      "ca": "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
+      "score": 15,
+      "pfp": "https://cdn.dexscreener.com/cms/images/2yBiqoeSz5gnw_tF?width=800&height=800&quality=95&format=auto"
     },
     {
       "ticker": "$CONDO",
