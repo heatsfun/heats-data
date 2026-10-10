@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T18:11:38.248Z",
+  "updatedAt": "2026-10-10T19:19:03.126Z",
   "coins": [
     {
       "ticker": "$ISG",
@@ -28,7 +28,7 @@
     {
       "ticker": "$CONDO",
       "ca": "6c1yyJi2uy5kQ1CWcECMFPHp2SspfH1rxDr1Ecnjy9G",
-      "score": 8,
+      "score": 14,
       "pfp": "https://cdn.dexscreener.com/cms/images/XK-Dp7aFsI1tqho8?width=800&height=800&quality=95&format=auto"
     }
   ]
