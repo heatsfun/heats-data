@@ -1,0 +1,29 @@
+name: heat-watch
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+concurrency:
+  group: heat-watch
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: browser-actions/setup-chrome@v1
+        id: chrome
+      - name: Run watcher
+        env:
+          HEATMAP_TG_BOT_TOKEN: ${{ secrets.HEATMAP_TG_BOT_TOKEN }}
+          CHROME_BIN: ${{ steps.chrome.outputs.chrome-path }}
+        run: |
+          git config user.name "heats-watch"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull -q --rebase origin main
+          python3 .watch/watch.py

@@ -1,0 +1,38 @@
+{
+  "heat_number": 1,
+  "known_cas": [
+    "3uEVodfTeqLsBssjQ5VPEwwdsTwWCJGCd3FVyx7RUNVB",
+    "6c1yyJi2uy5kQ1CWcECMFPHp2SspfH1rxDr1Ecnjy9G",
+    "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
+    "D9Tp9J3rVEzHPKAKLCE85ZAoWru1FPRhp1HfpnextvJL",
+    "HzReQA8ee2VjfkLGBvBV7EXYFJVUmAaWCFZFRcCUpump"
+  ],
+  "leader": "3uEVodfTeqLsBssjQ5VPEwwdsTwWCJGCd3FVyx7RUNVB",
+  "last_board": "2026-10-12T13:39:33.199441+00:00",
+  "last_sig": [
+    [
+      "6c1yyJi2uy5kQ1CWcECMFPHp2SspfH1rxDr1Ecnjy9G",
+      55
+    ],
+    [
+      "3uEVodfTeqLsBssjQ5VPEwwdsTwWCJGCd3FVyx7RUNVB",
+      42
+    ],
+    [
+      "D9Tp9J3rVEzHPKAKLCE85ZAoWru1FPRhp1HfpnextvJL",
+      33
+    ],
+    [
+      "HzReQA8ee2VjfkLGBvBV7EXYFJVUmAaWCFZFRcCUpump",
+      23
+    ],
+    [
+      "3B1ijcocM5EDga6XxQ7JLW7weocQPWWjuhBYG8Vepump",
+      21
+    ],
+    [
+      "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
+      15
+    ]
+  ]
+}
