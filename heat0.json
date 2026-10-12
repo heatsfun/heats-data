@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:41:36.727Z",
+  "updatedAt": "2026-10-12T15:45:01.112Z",
   "coins": [
     {
       "ticker": "$CONDO",
@@ -36,6 +36,12 @@
       "ca": "8RVBk8vxLiUHueLUW1f4izFVqN3nWippLhkohKg6EGkS",
       "score": 15,
       "pfp": "https://cdn.dexscreener.com/cms/images/2yBiqoeSz5gnw_tF?width=800&height=800&quality=95&format=auto"
+    },
+    {
+      "ticker": "$SPT",
+      "ca": "6uUU2z5GBasaxnkcqiQVHa2SXL68mAXDsq1zYN5Qxrm7",
+      "score": 15,
+      "pfp": "https://cdn.dexscreener.com/cms/images/1c7625d1f69ab99977771d79e4e7d1074a49235fea5dd33c8fe03f5a30fa651d?width=800&height=800&quality=95&format=auto"
     }
   ]
 }
