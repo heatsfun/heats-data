@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T15:45:01.112Z",
+  "updatedAt": "2026-10-12T16:33:34.544Z",
   "coins": [
     {
       "ticker": "$CONDO",
@@ -20,16 +20,16 @@
       "pfp": null
     },
     {
+      "ticker": "$BP",
+      "ca": "3B1ijcocM5EDga6XxQ7JLW7weocQPWWjuhBYG8Vepump",
+      "score": 26,
+      "pfp": "https://cdn.dexscreener.com/cms/images/lLcqL7wcljJexrTf?width=800&height=800&quality=95&format=auto"
+    },
+    {
       "ticker": "$AxeCat",
       "ca": "HzReQA8ee2VjfkLGBvBV7EXYFJVUmAaWCFZFRcCUpump",
       "score": 23,
       "pfp": "https://cdn.dexscreener.com/cms/images/O6k_vRoUOPJt7FYg?width=800&height=800&quality=95&format=auto"
-    },
-    {
-      "ticker": "$BP",
-      "ca": "3B1ijcocM5EDga6XxQ7JLW7weocQPWWjuhBYG8Vepump",
-      "score": 22,
-      "pfp": "https://cdn.dexscreener.com/cms/images/lLcqL7wcljJexrTf?width=800&height=800&quality=95&format=auto"
     },
     {
       "ticker": "$KNOTS",
